@@ -6,11 +6,11 @@
 	],
 	"settings": {
 		"editor.fontFamily": "Fira Code",
-		"editor.fontSize": 13,
+		"editor.fontSize": 12,
 		"editor.lineHeight": 24,
 		"window.zoomLevel": 0.9,
 		"terminal.integrated.fontSize": 12,
-		"terminal.integrated.lineHeight": 1,
+		"terminal.integrated.lineHeight": 1.5,
 		"workbench.colorTheme": "Laravel Docs Color",
 		"workbench.iconTheme": "vscode-icons"
 	}
