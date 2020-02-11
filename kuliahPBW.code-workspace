@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontFamily": "Fira Code",
+		"editor.fontSize": 13,
+		"editor.lineHeight": 24,
+		"window.zoomLevel": 0.9,
+		"terminal.integrated.fontSize": 12,
+		"terminal.integrated.lineHeight": 1,
+		"workbench.colorTheme": "Laravel Docs Color",
+		"workbench.iconTheme": "vscode-icons"
+	}
+}
