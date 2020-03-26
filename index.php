@@ -1,2 +1,6 @@
 <?php
-echo "Hi guys!";
+include 'header.php';
+
+echo "<h2>Selamat belajar PHP</h2>";
+
+include 'footer.php';
