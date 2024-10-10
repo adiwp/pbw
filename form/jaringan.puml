@@ -1,0 +1,26 @@
+@startuml
+rectangle "Dosen Siti Nurbaya" as Siti
+rectangle "Dosen Ashadi" as Ashadi
+rectangle "Pengantar Basis Data" as PBD
+rectangle "Pemrograman C" as PC
+rectangle "Matematika I" as MI
+rectangle "Rudi" as Rudi
+rectangle "Asti" as Asti
+rectangle "Dina" as Dina
+rectangle "Edi" as Edi
+rectangle "Ita" as Ita
+
+Siti --> PBD
+Siti --> PC
+Ashadi --> MI
+
+PBD --> Rudi
+PBD --> Asti
+PBD --> Dina
+
+PC --> Edi
+PC --> Dina
+
+MI --> Edi
+MI --> Ita
+@enduml

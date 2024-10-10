@@ -1,0 +1,14 @@
+@startuml
+rectangle "Penumpang" as Penumpang
+rectangle "Penerbangan" as Penerbangan
+rectangle "Maskapai" as Maskapai
+rectangle "Tiket" as Tiket
+rectangle "Kursi" as Kursi
+
+Penumpang --> Tiket
+Tiket --> Penerbangan
+Penerbangan --> Maskapai
+Penerbangan --> Kursi
+Kursi --> Tiket
+
+@enduml
