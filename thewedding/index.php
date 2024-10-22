@@ -40,12 +40,12 @@
 <body>
 <h1>The Wedding</h1>
 <h2>Mas Guntur dan Mbak Alia</h2>
-<img src="/thewedding/images/image.webp" alt="Mempelai">
+<img src="/images/image.webp" alt="Mempelai">
 <h2>Getting Married</h2>
 
 <div class="links">
-    <a href="/thewedding/isibukutamu.php">Isi Buku Tamu</a>
-    <a href="/thewedding/lihatbukutamu.php">Lihat Buku Tamu</a>
+    <a href="isibukutamu.php">Isi Buku Tamu</a>
+    <a href="lihatbukutamu.php">Lihat Buku Tamu</a>
 </div>
 </body>
 </html>
